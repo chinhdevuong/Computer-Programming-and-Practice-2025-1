@@ -11,3 +11,7 @@
  */
 
 /* To Do: 타입이 void고, 이름이 x고, 문장리스트가 없는 함수를 정의해보세요 */
+int value(int x)
+{
+	return x;
+}
