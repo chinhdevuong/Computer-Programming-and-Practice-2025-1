@@ -7,9 +7,9 @@
  * 해당 이름이 특정 반환타입의 함수를 뜻한다고 정합니다. 
  */
 
-<<<<<<< Updated upstream
-/* To Do: 반환 타입이 int이고 이름이 five인 함수를 선언해보세요 */
 
+/* To Do: 반환 타입이 int이고 이름이 five인 함수를 선언해보세요 */
+int five();
 int main() {
 	return five();
 }
@@ -22,15 +22,3 @@ int main() {
 int five() {
 	return 5;
 }
-=======
-/* To Do: 타입이 int고, 이름이 main이고, 0을 반환하는 함수를 정의해보세요 */
-int five();
-int main()
-{
-	return five();
-}
-int five()
-{
-	return 5;
-}
->>>>>>> Stashed changes
