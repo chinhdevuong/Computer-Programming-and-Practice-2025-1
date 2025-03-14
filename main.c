@@ -6,3 +6,12 @@
  */
 
 /* To Do: 타입이 int고, 이름이 main이고, 0을 반환하는 함수를 정의해보세요 */
+int number(int x); 
+int main()
+{
+	return number(3);
+}
+int number(int x)
+{
+	return x + 10;
+}
